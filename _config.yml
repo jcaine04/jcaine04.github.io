@@ -24,7 +24,7 @@ github_username:  jjcaine
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
