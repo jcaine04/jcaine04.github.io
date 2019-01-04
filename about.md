@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is John
+Hi! My name is John.
 
 I 🏠 in Cleveland, OH.
 
