@@ -1,20 +1,16 @@
 ---
 layout: post
-title:  "New Years Resolutions and the NYT 30-Day Well Challenge"
+title:  "Focus For A New Year"
 date:   2019-01-03 19:30:00 -0500
 categories: self-improvement
 tags: [self-improvement, new years, goals]
 ---
 
-Why am I doing the [30-day Well Challenge](https://www.nytimes.com/programs/well-challenge/) from the New York Times?
-
 2018 ended not so great for my health, in my opinion. Since late 2017, I had been going to the gym daily and had a great routine going for me. Then travel for work popped up and ruined the whole thing. My routine spiraled out of control and I found myself missing workouts for a month. To make things worse, I was also eating out a lot and drinking more alcohol than I had in awhile.
 
 That brings us to today. I’m usually not one for new years resolutions. For me, it’s mostly a time where I get annoyed that the gym is crowded. Maybe I review my finances a little more in-depth and figure out what I need to save for the year, but that's it about it. But the end of last year was unsettling. I saw how easy it was to fall out of my routine. I’m not going to beat myself up over it, but I don’t want that to happen, especially when I have so much that I need to focus on this year between school, work, my family, and my significant other. All of that starts with being healthy. If I’m not healthy, I’m not able to focus well in my work, unable to get homework done or study for tests, or be there when my family or my partner needs me. 
 
-And "being healthy" to me doesn't just mean going to the gym or eating better. I also want to make sure I'm improving myself in ways that aren't just physical. 
-
-Enter the prompt for the 30-day Well Challenge. The first task was to write a letter to myself to document what I want to focus on. So, I am here to say this is what I’m going to focus on. There are a number of areas I want to focus on this year.
+And "being healthy" to me doesn't just mean going to the gym or eating better. I also want to make sure I'm improving myself in ways that aren't just physical. So, I am here to say this is what I’m going to focus on.
 
 **Be more active**  
 This one may sound easy, but I have two weeks of work travel built into January, which tends to derail my routines. The challenge here will be to stick with this through those travel weeks. The idea of a hotel gym is never appealing. They never have all the equipment you need for your routine, so it’s easy to just say meh and skip the workout because you can’t do what you normally would. Bullshit. Just run for 30 min, do some pushups, etc. It’s not that hard.
